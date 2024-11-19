@@ -1,1 +1,1 @@
-{"users": [{"username": "u1", "password": "pass1", "online": false}, {"username": "u2", "password": "pass2", "online": true}, {"username": "userC", "password": "passwordC", "online": false}]}
+{"users": [{"username": "u1", "password": "pass1", "online": true}, {"username": "u2", "password": "pass2", "online": true}, {"username": "userC", "password": "passwordC", "online": false}]}
