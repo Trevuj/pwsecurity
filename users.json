@@ -1,1 +1,19 @@
-{"users": [{"id": 1, "username": "u1", "password": "pass1", "online": true}, {"id": 2, "username": "u2", "password": "pass2", "online": false}]}
+{
+  "users": [
+    {
+      "username": "u1",
+      "password": "pass1",
+      "online": false
+    },
+    {
+      "username": "u2",
+      "password": "pass2",
+      "online": false
+    },
+    {
+      "username": "userC",
+      "password": "passwordC",
+      "online": false
+    }
+  ]
+}
