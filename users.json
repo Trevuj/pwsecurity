@@ -1,1 +1,29 @@
-[{"username":"u1","password":"pass1","courses":[{"courseName":"Course 1","secretKey":"xfbdnftnmrt"}]}]
+[
+    {
+        "username": "u1",
+        "password": "pass1",
+        "courses": [
+            {
+                "courseName": "Course 1",
+                "secretKey": "xfbdnftnmrt",
+                "approved": true
+            },
+            {
+                "courseName": "Course 2",
+                "secretKey": "fbsdbhsdnd",
+                "approved": false
+            }
+        ]
+    },
+    {
+        "username": "u2",
+        "password": "pass2",
+        "courses": [
+            {
+                "courseName": "Course 1",
+                "secretKey": "secretkey1",
+                "approved": false
+            }
+        ]
+    }
+]
