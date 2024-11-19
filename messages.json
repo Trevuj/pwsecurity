@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "sender_id": 1,
+      "receiver_id": 2,
+      "message": "Hello, userB!",
+      "timestamp": "2023-10-01T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "sender_id": 2,
+      "receiver_id": 1,
+      "message": "Hi, userA!",
+      "timestamp": "2023-10-01T12:01:00Z"
+    }
+  ]
+}
